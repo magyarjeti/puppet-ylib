@@ -3,7 +3,7 @@
 module Puppet::Parser::Functions
   newfunction(:smooth, :type => :rvalue) do |args|
     raise(Puppet::ParseError, "smooth(): Wrong number of arguments " +
-      "given (#{arguments.size} for 1)") if arguments.size != 1
+      "given (#{args.size} for 1)") if args.size != 1
 
     result = {}
 
