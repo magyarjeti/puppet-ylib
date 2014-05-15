@@ -1,5 +1,7 @@
 # Yeti Standard Library
 
+[![Build Status](https://travis-ci.org/magyarjeti/puppet-ylib.svg?branch=master)](https://travis-ci.org/magyarjeti/puppet-ylib)
+
 This module contains some functions missed from Puppet Labs Standard Library.
 
 ## Functions
