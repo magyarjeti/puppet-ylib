@@ -1,5 +1,3 @@
-# vim: tabstop=2 expandtab shiftwidth=2 softtabstop=2
-
 module Puppet::Parser::Functions
   newfunction(:smooth, :type => :rvalue) do |args|
     raise(Puppet::ParseError, "smooth(): Wrong number of arguments " +
