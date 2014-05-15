@@ -1,6 +1,6 @@
-# Puppet Labs Standard Library Extension
+# Yeti Standard Library
 
-This is the ylib module. An extension of the original Puppet Labs stdlib.
+This module contains some functions missed from Puppet Labs Standard Library.
 
 ## Functions
 
