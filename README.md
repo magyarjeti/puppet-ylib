@@ -16,4 +16,4 @@ Would result in:
 
     {"foo" => 1, "bar.baz" => "qux"}
 
-Please log tickets and issues at our [Project site](https://github.com/magyarjeti/puppet-ylib)
+Please log tickets and issues at our [project site](https://github.com/magyarjeti/puppet-ylib)
